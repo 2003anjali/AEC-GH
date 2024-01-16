@@ -9,7 +9,7 @@ int main() {
   nextTerm = t1 + t2;
 
   //this is the change made in this file
-
+printf("h");
   while (nextTerm <= n) {
     printf("%d, ", nextTerm);
     t1 = t2;
